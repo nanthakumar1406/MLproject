@@ -79,3 +79,5 @@ MIT License
 1. Try the **"house_age"** feature for interesting price trends
 2. Use the **geographic heatmap** to identify premium locations
 3. Compare all three models to see which works best for your data
+
+CHECK https://housepricepredictionappml.streamlit.app/ 
