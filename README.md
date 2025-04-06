@@ -80,4 +80,4 @@ MIT License
 2. Use the **geographic heatmap** to identify premium locations
 3. Compare all three models to see which works best for your data
 
-CHECK https://housepricepredictionappml.streamlit.app/ 
+# https://housepricepredictionappml.streamlit.app/ 
